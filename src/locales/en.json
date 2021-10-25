@@ -1,0 +1,218 @@
+{
+  "app": {
+    "nav": {
+      "home": "Home page",
+      "about": "Our company",
+      "projects": "Our projects",
+      "architects": "Architects",
+      "contacts": "Contacts"
+    },
+    "motto": "<span>Your dream</span><span><strong>Our</strong> mission</span>",
+    "phoneTitle": "phone",
+    "emailTitle": "email",
+    "addressTitle": "address"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "phone": "077-216-55-50",
+    "email": "vikos@vikos-ltd.com",
+    "address": "Hnotea 5* POB 220* Mazor",
+    "phoneTitle": "Phone",
+    "emailTitle": "Email",
+    "addressTitle": "Address (08:00 to 15:30 - Sunday to Thursday)"
+  },
+  "projects": {
+    "title": "Projects",
+    "filters": {
+      "all": "All",
+      "country": "Country",
+      "modern": "Modern",
+      "classic": "Classic"
+    },
+    "list": [
+      {
+        "id": "luxury-residences-tower",
+        "name": "Luxury Residences Tower",
+        "location": "Tel Aviv",
+        "style": "Modern",
+        "size": "120",
+        "info": "Luxury residences by the seashore. Finishing work at high level combining carpentry & unique metalcraft.",
+        "images": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+        "tags": ["modern"],
+        "gridType": 1
+      },
+      {
+        "id": "luxury-residences-tower-2",
+        "name": "Luxury Residences Tower",
+        "location": "Tel Aviv",
+        "style": "Modern",
+        "size": "260",
+        "info": "Luxury residences by the seashore. Finishing work at high level combining carpentry & unique metalcraft.",
+        "images": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+        "tags": ["modern"],
+        "gridType": 2
+      },
+      {
+        "id": "ceos-office",
+        "name": "Ceo's Office",
+        "location": "Tel Aviv",
+        "style": "Country",
+        "size": "120",
+        "info": "Building a CEO's Office for a leading Entrepreneurial company.",
+        "images": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+        "tags": ["country"],
+        "gridType": 3
+      },
+      {
+        "id": "triplex-apartment",
+        "name": "Triplex apartment",
+        "location": "Netanya",
+        "style": "Modern – Classic",
+        "size": "1800",
+        "info": "Luxury Triplex apartment by the seashore. Execution of swimming pool at top level, 2 elevators & big wide windows 4.3m high.",
+        "images": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+        "tags": ["modern", "classic"],
+        "gridType": 2
+      },
+      {
+        "id": "showroom",
+        "name": "ShowRoom",
+        "location": "Bnei Brak",
+        "style": "Modern",
+        "size": "500",
+        "info": "Showroom of a leading company in the sale of natural stone.",
+        "images": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+        "tags": ["modern"],
+        "gridType": 1
+      }
+    ]
+  },
+  "home": {
+    "title": "Home",
+    "description": "is an engineering company that specializes in interior construction with a focus on exclusive spacious apartments with a high level of finish",
+    "contacts": "Contacts",
+    "projects": "Our projects"
+  },
+  "about": {
+    "title": "Our company",
+    "subtitle": "How will it end?<br>This is a different story.",
+    "description": "Everyone knows how the process of building an apartment begins.",
+    "list": [
+      {
+        "texts": [
+          "Building the house of your dreams is one of the most significant investments in life.",
+          "So why should you put up with budget overruns, significant delays and dissatisfaction at the final result ?",
+          "The world belongs to brands, and you deserve to enjoy the value and experience that the brand provides even while building the apartment. That is exactly why we established VIKOS - a brand of quality in the field of apartment interior construction & finishing work."
+        ]
+      },
+      {
+        "description": "So how do you turn building from a headache into an experience? Vikos was founded in",
+        "title": "2005 by Oleg Kostrinsky",
+        "texts": [
+          "who set a new standard of quality in the prestigious - private construction industry. After gaining more than two decades of experience in supervision, coordination and management - Oleg understood the greatest needs of his clients and professionals in the field, and founded VIKOS to give them a unique answer, this was the vision that Oleg created then then and now."
+        ]
+      },
+      {
+        "description": "Custom Prestigious building",
+        "title": "How Does<br>It Work?",
+        "texts": [
+          "VIKOS specializes in prestigious interior construction, which includes finishing work from the simplest to the most complex. Our solutions include the entire inner shell until the apartment is delivered to the customer: interior plumbing, a smart home, special plaster (Gypsum) works and any solution needed to make your dream come true.",
+          "We are experts in streamlining the work process and provide a solution to every dream and every request. Which are happening with close collaboration with the architect and construction supervisor, and providing creative solutions to challenges that arise from the field."
+        ]
+      }
+    ],
+    "benefitsTitle": "Our unique benefits",
+    "benefitsDescription": "will make you smile from wall to wall, throughout and after the construction process",
+    "benefits": [
+      "Promise and deliver! VIKOS is committed to the FIX price - which remains constant throughout the construction process and close to the original construction plans. No tricks and no false promises.",
+      "Provide full responsibility for the quality of the work - until your complete satisfaction. Even after the work is completed, we guarantee quality - with responsibility.",
+      "Available to you around the clock - through a project manager who will allow you to enjoy the joy of construction, until the project is completed on time.",
+      "Putting you at the center - with a customer relations department, which proactively takes care of your satisfaction.",
+      "Specialize in prestigious projects - VIKOS uses the highest quality materials to carry out projects such as Akirov Towers, YOO Towers, Tzameret Park, penthouses and luxury private houses in Savyon, Herzliya Pituach, Arsuf and more.",
+      "Set a new standard - through leading professionals and strict management standards. Our experienced team includes a CEO, a project manager, an office manager with one common goal: to make the construction process an experience."
+    ],
+    "projectsTitle": "Our projects",
+    "watchAll": "Watch all"
+  },
+  "architects": {
+    "title": "Architects",
+    "list": [
+      {
+        "name": "Shachar Parnas",
+        "post": "Architect"
+      },
+      {
+        "name": "Iris Rosenheimer",
+        "post": "Architect"
+      },
+      {
+        "name": "Irma Orenstein",
+        "post": "Architect"
+      },
+      {
+        "name": "Lev Gargir",
+        "post": "Architect"
+      },
+      {
+        "name": "Oka",
+        "post": "Architect"
+      },
+      {
+        "name": "Goldberg",
+        "post": "Architect"
+      },
+      {
+        "name": "Iris Inbar",
+        "post": "Architect"
+      },
+      {
+        "name": "Zehava Lavi",
+        "post": "Architect"
+      },
+      {
+        "name": "Baranowitz",
+        "post": "Architect"
+      },
+      {
+        "name": "Samet",
+        "post": "Architect"
+      },
+      {
+        "name": "Omri Haron",
+        "post": "Architect"
+      },
+      {
+        "name": "Yaron Tal",
+        "post": "Architect"
+      },
+      {
+        "name": "Binderman",
+        "post": "Architect"
+      },
+      {
+        "name": "Alex Meitlis",
+        "post": "Architect"
+      },
+      {
+        "name": "Rona Levin",
+        "post": "Architect"
+      },
+      {
+        "name": "Michal Rosent",
+        "post": "Architect"
+      },
+      {
+        "name": "Evan",
+        "post": "Architect"
+      }
+    ]
+  },
+  "project": {
+    "nextProject": "Next project",
+    "allProjects": "Back to all projects",
+    "styleTitle": "Project style",
+    "sizeTitle": "Meters",
+    "infoTitle": "Info",
+    "meters": "m<sup>2</sup>"
+  }
+}
